@@ -195,6 +195,9 @@ iliil1liliiiiillll11l1l1i
 이한주
 박상우
 
+<<<<<<< HEAD
 echo "이것은 오락부장의 명령이다." >> add.txt
 어갈것!
 >>>>>>> 3b96e0921840000ff4de8814debe68ebe7fbbd06
+=======
+>>>>>>> 2ab284e78cea95559c9e7d964a936980a388ba35
