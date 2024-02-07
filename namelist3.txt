@@ -3,20 +3,17 @@
 조윤정
 김문기
 한소연
+<<<<<<< HEAD:namalist3.txt
 <<<<<<< HEAD:namelist3.txt
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> t1-p1:namalist3.txt
+=======
+>>>>>>> t1-p1:namelist3.txt
 이준용
 이한주
 박상우
-
-
-
-
-
-
 
 
 
