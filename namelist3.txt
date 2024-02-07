@@ -203,8 +203,6 @@ echo "이것은 오락부장의 명령이다." >> add.txt
 
 
 
-
-
 ililililililili1liliiiiillll11l1l1i
 iliillililili
 iliili
